@@ -1,0 +1,14 @@
+C:\Users\Latina\source\repos\Marauder's_Oasis\Marauders_Oasis.Common\bin\Debug\net6.0\Marauders_Oasis.Common.deps.json
+C:\Users\Latina\source\repos\Marauder's_Oasis\Marauders_Oasis.Common\bin\Debug\net6.0\Marauders_Oasis.Common.dll
+C:\Users\Latina\source\repos\Marauder's_Oasis\Marauders_Oasis.Common\bin\Debug\net6.0\Marauders_Oasis.Common.pdb
+C:\Users\Latina\source\repos\Marauder's_Oasis\Marauders_Oasis.Common\obj\Debug\net6.0\Marauders_Oasis.Common.csproj.AssemblyReference.cache
+C:\Users\Latina\source\repos\Marauder's_Oasis\Marauders_Oasis.Common\obj\Debug\net6.0\Marauders_Oasis.Common.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Latina\source\repos\Marauder's_Oasis\Marauders_Oasis.Common\obj\Debug\net6.0\Marauders_Oasis.Common.AssemblyInfoInputs.cache
+C:\Users\Latina\source\repos\Marauder's_Oasis\Marauders_Oasis.Common\obj\Debug\net6.0\Marauders_Oasis.Common.AssemblyInfo.cs
+C:\Users\Latina\source\repos\Marauder's_Oasis\Marauders_Oasis.Common\obj\Debug\net6.0\Marauders_Oasis.Common.csproj.CoreCompileInputs.cache
+C:\Users\Latina\source\repos\Marauder's_Oasis\Marauders_Oasis.Common\obj\Debug\net6.0\Marauders_Oasis.Common.dll
+C:\Users\Latina\source\repos\Marauder's_Oasis\Marauders_Oasis.Common\obj\Debug\net6.0\refint\Marauders_Oasis.Common.dll
+C:\Users\Latina\source\repos\Marauder's_Oasis\Marauders_Oasis.Common\obj\Debug\net6.0\Marauders_Oasis.Common.pdb
+C:\Users\Latina\source\repos\Marauder's_Oasis\Marauders_Oasis.Common\obj\Debug\net6.0\ref\Marauders_Oasis.Common.dll
+C:\Users\Latina\source\repos\Marauder's_Oasis\Marauders_Oasis.Common\bin\Debug\net6.0\Marauders_Oasis.Common.runtimeconfig.json
+C:\Users\Latina\source\repos\Marauder's_Oasis\Marauders_Oasis.Common\obj\Debug\net6.0\Marauders_Oasis.Common.genruntimeconfig.cache

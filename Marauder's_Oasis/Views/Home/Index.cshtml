@@ -1,0 +1,51 @@
+﻿@{
+	ViewData["Title"] = "Home Page";
+}
+<body id="HomepageBody">
+
+	<div class="text-center">
+		<h1 class="display-4">...Welcome...</h1>
+		<p style="font-size: 26px">Your place to seek and offer all kinds of services!</p>
+	</div>
+
+	@*Buttons*@
+	<div class="container">
+		<div class="row">
+			<div class="col-sm-4">
+				<div class="card">
+					<div class="card-body" style="background-color : darkslategray">
+						<h5 class="card-title">Find a service</h5>
+						<p class="card-text">Find the service you need and contact the provider.</p>
+						<a href="~/Services/Index" class="btn btn-primary">Find a service</a>
+					</div>
+				</div>
+			</div>
+			<div class="col-sm-4">
+				<div class="card">
+					<div class="card-body" style="background-color : darkslategray">
+						<h5 class="card-title">Offer a service</h5>
+						<p class="card-text">Offer your services to the community.</p>
+						<a href="~/Services/Create" class="btn btn-primary">Offer a service</a>
+
+						<style>
+							.btn-primary {
+								background-color: #4CAF50 !important; /* Green */
+								border-color: #4CAF50 !important; /* Green */
+							}
+						</style>
+
+					</div>
+				</div>
+			</div>
+			<div class="col-sm-4">
+				<div class="card">
+					<div class="card-body" style="background-color : darkslategray">
+						<h5 class="card-title">Contact us</h5>
+						<p class="card-text">Contact us for any questions or suggestions.</p>
+						<a href="~/Home/Contact" class="btn btn-primary">Contact us</a>
+					</div>
+				</div>
+			</div>
+		</div>
+	</div>
+</body>

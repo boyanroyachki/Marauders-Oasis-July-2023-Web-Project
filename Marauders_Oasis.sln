@@ -1,0 +1,59 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.6.33801.468
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Marauders_Oasis", "Marauder's_Oasis\Marauders_Oasis.csproj", "{296F379C-8549-4534-9417-4E2312AB5A11}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Marauders_Oasis.Common", "Marauders_Oasis.Common\Marauders_Oasis.Common.csproj", "{B00AD57D-98C3-4ED5-9F57-4C4B2C7C467D}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Web", "Web", "{2A1CCEED-50A3-47EB-A556-A8B2CDAD2313}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Data", "Data", "{F8F37C24-1F9F-4DEB-B00F-000516B27547}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Marauders_Oasis.Data", "Marauders_Oasis.Data\Marauders_Oasis.Data.csproj", "{DDAF00FC-AA8E-45C7-8F87-1CCA6FED19C8}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Marauders_Oasis.Data.Models", "Marauders_Oasis.Data.Models\Marauders_Oasis.Data.Models.csproj", "{76957C6C-E293-49CC-B3BD-071482B4CA77}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Marauders_Oasis.Web.ViewModels", "Marauders_Oasis.Web.ViewModels\Marauders_Oasis.Web.ViewModels.csproj", "{8655241D-E1F1-4852-9A58-E2DC6C1C46CF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{296F379C-8549-4534-9417-4E2312AB5A11}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{296F379C-8549-4534-9417-4E2312AB5A11}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{296F379C-8549-4534-9417-4E2312AB5A11}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{296F379C-8549-4534-9417-4E2312AB5A11}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B00AD57D-98C3-4ED5-9F57-4C4B2C7C467D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B00AD57D-98C3-4ED5-9F57-4C4B2C7C467D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B00AD57D-98C3-4ED5-9F57-4C4B2C7C467D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B00AD57D-98C3-4ED5-9F57-4C4B2C7C467D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DDAF00FC-AA8E-45C7-8F87-1CCA6FED19C8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DDAF00FC-AA8E-45C7-8F87-1CCA6FED19C8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DDAF00FC-AA8E-45C7-8F87-1CCA6FED19C8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DDAF00FC-AA8E-45C7-8F87-1CCA6FED19C8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{76957C6C-E293-49CC-B3BD-071482B4CA77}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{76957C6C-E293-49CC-B3BD-071482B4CA77}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{76957C6C-E293-49CC-B3BD-071482B4CA77}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{76957C6C-E293-49CC-B3BD-071482B4CA77}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8655241D-E1F1-4852-9A58-E2DC6C1C46CF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8655241D-E1F1-4852-9A58-E2DC6C1C46CF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8655241D-E1F1-4852-9A58-E2DC6C1C46CF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8655241D-E1F1-4852-9A58-E2DC6C1C46CF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{296F379C-8549-4534-9417-4E2312AB5A11} = {2A1CCEED-50A3-47EB-A556-A8B2CDAD2313}
+		{DDAF00FC-AA8E-45C7-8F87-1CCA6FED19C8} = {F8F37C24-1F9F-4DEB-B00F-000516B27547}
+		{76957C6C-E293-49CC-B3BD-071482B4CA77} = {F8F37C24-1F9F-4DEB-B00F-000516B27547}
+		{8655241D-E1F1-4852-9A58-E2DC6C1C46CF} = {2A1CCEED-50A3-47EB-A556-A8B2CDAD2313}
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {8192625F-2CBE-437E-AB54-D67420F4EE16}
+	EndGlobalSection
+EndGlobal

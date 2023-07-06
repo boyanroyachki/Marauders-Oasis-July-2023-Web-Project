@@ -1,0 +1,30 @@
+html {
+    font-size: 14px;
+}
+
+@media (min-width: 768px) {
+    html {
+        font-size: 16px;
+    }
+}
+
+html {
+    position: relative;
+    min-height: 100%;
+}
+
+body {
+    margin-bottom: 60px;
+}
+
+#HomepageBody {
+    color: white;
+    background-image: url('/Images/WebPrjct_background2.png');
+    background-repeat: no-repeat;
+    background-position: center;
+}
+
+
+
+
+
