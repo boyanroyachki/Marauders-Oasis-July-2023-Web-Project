@@ -15,7 +15,12 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Marauders_Oasis.Data", "Mar
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Marauders_Oasis.Data.Models", "Marauders_Oasis.Data.Models\Marauders_Oasis.Data.Models.csproj", "{76957C6C-E293-49CC-B3BD-071482B4CA77}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Marauders_Oasis.Web.ViewModels", "Marauders_Oasis.Web.ViewModels\Marauders_Oasis.Web.ViewModels.csproj", "{8655241D-E1F1-4852-9A58-E2DC6C1C46CF}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Marauders_Oasis.Web.ViewModels", "Marauders_Oasis.Web.ViewModels\Marauders_Oasis.Web.ViewModels.csproj", "{8655241D-E1F1-4852-9A58-E2DC6C1C46CF}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{D9A701C4-CF80-463E-831F-D5DD9F80D160}"
+	ProjectSection(SolutionItems) = preProject
+		.gitignore = .gitignore
+	EndProjectSection
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution

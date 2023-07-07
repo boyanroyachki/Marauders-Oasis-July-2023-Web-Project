@@ -23,6 +23,13 @@ body {
     background-repeat: no-repeat;
     background-position: center;
 }
+#ContactView {
+    color: white;
+    background-image: url('/Images/WebPrjct_background2.png');
+    background-repeat: no-repeat;
+    background-position: center;
+}
+
 
 
 
