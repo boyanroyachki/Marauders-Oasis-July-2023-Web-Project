@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\Marauders_Oasis.props" />
+</Project>
