@@ -1,0 +1,17 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net6.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\Marauder's_Oasis\Marauders_Oasis.csproj" />
+    <ProjectReference Include="..\Marauders_Oasis.Common\Marauders_Oasis.Common.csproj" />
+    <ProjectReference Include="..\Marauders_Oasis.Data.Models\Marauders_Oasis.Data.Models.csproj" />
+    <ProjectReference Include="..\Marauders_Oasis.Data\Marauders_Oasis.Data.csproj" />
+    <ProjectReference Include="..\Marauders_Oasis.Web.ViewModels\Marauders_Oasis.Web.ViewModels.csproj" />
+  </ItemGroup>
+
+</Project>

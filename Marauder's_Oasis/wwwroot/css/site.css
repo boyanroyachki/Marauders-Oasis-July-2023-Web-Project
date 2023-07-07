@@ -29,6 +29,21 @@ body {
     background-repeat: no-repeat;
     background-position: center;
 }
+#AnonymousView {
+    color: white;
+    background-image: url('/Images/WebPrjct_background2.png');
+    background-repeat: no-repeat;
+    background-position: center;
+}
+.btn-primary {
+    background-color: #4caf50 !important;  /*green*/ 
+    border-color: #4caf50 !important;  /*green*/ 
+}
+/* Change the background color of the text boxes */
+.form-control {
+    background-color: darkslategray;
+    color: white;
+}
 
 
 
