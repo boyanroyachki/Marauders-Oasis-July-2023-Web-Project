@@ -1,10 +1,2 @@
-Marauders_Oasis.Data/[Bb]in/
-Marauders_Oasis.Data/[Oo]bj/
-Marauders_Oasis.Data.Models/[Bb]in/
-Marauders_Oasis.Data.Models/[Oo]bj/
-Marauders_Oasis/[Bb]in/
-Marauders_Oasis/[Oo]bj/
-Marauders_Oasis.Web.ViewModels/[Bb]in/
-Marauders_Oasis.Web.ViewModels/[Oo]bj/
-Marauders_Oasis.Common/[Bb]in/
-Marauders_Oasis.Common/[Oo]bj/
+**/[Bb]in/
+**/[Oo]bj/
